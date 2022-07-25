@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+
+        /*===========================
+
+           DAY 1 OF 100 - UNFINISHED
+
+         ============================*/
 public class TipCalculator {
     public static void main(String[] args) {
 
